@@ -1,50 +1,58 @@
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\DropdownMenu.Android.dll
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\DropdownMenu.Android.pdb
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\DropdownMenu.Android.apk
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\DropdownMenu.Android-Signed.apk
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\FormsViewGroup.dll
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.Design.dll
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.v4.dll
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Core.dll
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Platform.dll
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Xaml.dll
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\FormsViewGroup.pdb
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Core.pdb
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Core.xml
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\DropdownMenu.Android.csprojResolveAssemblyReference.cache
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\DropdownMenu.Droid.MainPage.xaml.g.cs
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\DropdownMenu.Droid.App.xaml.g.cs
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\DropdownMenu.Droid.Detail.xaml.g.cs
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\DropdownMenu.Droid.Master.xaml.g.cs
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\DropdownMenu.Android.dll
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\DropdownMenu.Android.pdb
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\android\bin\DropdownMenu.Android.apk
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\res\drawable\icon.png
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\res\layout\tabbar.xml
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\res\layout\toolbar.xml
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\res\values\styles.xml
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\res\drawable\hamburguer_menu.png
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\R.cs.flag
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\uploadflags.txt
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\FormsViewGroup.dll.mdb
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\bin\Debug\DropdownMenu.Android.dll.mdb
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\android\assets\DropdownMenu.Android.dll.mdb
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\DropdownMenu.Droid.A.xaml.g.cs
-C:\Users\ronal\Documents\Visual Studio 2017\Projects\DropdownMenu\DropdownMenu\DropdownMenu.Android\obj\Debug\DropdownMenu.Droid.B.xaml.g.cs
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\DropdownMenu.Android.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\DropdownMenu.Android.pdb
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\DropdownMenu.Android.apk
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\DropdownMenu.Android-Signed.apk
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\DropdownMenu.Android.csprojResolveAssemblyReference.cache
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\DropdownMenu.Droid.MainPage.xaml.g.cs
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\DropdownMenu.Droid.App.xaml.g.cs
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\DropdownMenu.Droid.Detail.xaml.g.cs
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\DropdownMenu.Droid.Master.xaml.g.cs
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\DropdownMenu.Droid.A.xaml.g.cs
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\DropdownMenu.Droid.B.xaml.g.cs
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\DropdownMenu.Android.dll
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\DropdownMenu.Android.pdb
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\android\bin\DropdownMenu.Android.apk
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\res\drawable\icon.png
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\res\values\styles.xml
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\res\drawable\hamburguer_menu.png
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\R.cs.flag
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\uploadflags.txt
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\bin\Debug\DropdownMenu.Android.dll.mdb
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\android\assets\DropdownMenu.Android.dll.mdb
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ronal\Documents\hamburguer_menu-xamarin\DropdownMenu\DropdownMenu.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
+
 namespace DropdownMenu
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
@@ -14,7 +15,8 @@ namespace DropdownMenu
 	{
 		public A ()
 		{
+            DependencyService.Get<IDependencyService>().SendNotification("Página A", "Você visitou a página A");
 			InitializeComponent ();
-		}
+        }
 	}
 }
